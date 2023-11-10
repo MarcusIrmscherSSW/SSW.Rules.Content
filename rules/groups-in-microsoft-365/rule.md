@@ -4,12 +4,35 @@ title: Do you know how to choose the right group in Microsoft 365?
 uri: groups-in-microsoft-365
 authors:
   - title: Chris Schultz
-    img: https://ssw.com.au/people/chris-schultz/
+    url: https://ssw.com.au/people/chris-schultz
+  - title: Ash Anil
+    url: https://www.ssw.com.au/people/ash
+  - title: Warwick Leahy
+    url: https://www.ssw.com.au/people/warwick-leahy
 related:
   - do-you-standardise-ad-group-names
+  - following-microsoft-365-groups
 created: 2023-01-23T04:01:38.052Z
 guid: 918a685e-ff2e-4c82-b5df-06e8b932819a
 ---
+Microsoft provides a collaboration tool called Microsoft 365 email groups on the cloud, which allows users to send emails to a group of people using a single email address. These groups can be created and managed from any location with an internet connection and can include both internal and external recipients. Microsoft 365 email groups on the cloud offer a wide range of collaboration features, making them an effective tool for streamlining communication and improving productivity.
+
+<!--endintro-->
+
+## On-premises groups vs Microsoft 365 groups
+
+It is important to understand the differences between on-premises groups and Microsoft 365 groups.
+
+### On-premises groups
+
+These groups are created and managed within an organization's local network, using on-premises infrastructure such as Active Directory. These groups typically have limited collaboration features and are primarily used for email distribution and security management. If we have to manage the groups, users, or laptops on-premises that are domain-joined it is easier to create a security group in AD.  
+
+***NOTE: AD groups sync to Microsoft 365 (cloud), but Microsoft 365 groups don't sync back to AD*** 
+
+![Figure: Choosing a group type in On-Premises Active Directory ](on-prem-group.jpg)
+
+### Microsoft 365 groups
+
 In Microsoft 365, there are 6 different types of groups you can create - so it is important to know how to decide which group to create.  
 
 The groups available in Microsoft 365 are:  
@@ -23,19 +46,17 @@ The groups available in Microsoft 365 are:
 
 ![Figure: Choosing a group type in Microsoft 365](m365-groups.png)
 
-<!--endintro-->
-
 ### Microsoft 365 Groups
 
 Microsoft 365 groups are for collaboration between members of the group. When you create a Microsoft 365 group, you get a number of shared resources - including an inbox, a calendar, and a shared workspace for files. You can create a Microsoft 365 Group with or without a Team attached to it - or you can add a Team later.
 
-Microsoft 365 Groups are recommended by Microsoft, and they are often the best choice if you're not sure which group type to choose.
+Microsoft 365 Groups are recommended by Microsoft, and they are often the best choice if you're not sure which group type to choose.  Choose these groups if the users wish to choose whether they want to receive the email or not (subscribe).
 
 ### Distribution groups
 
-Distribution groups are the way to go if you just want to be able to email a number of people at the same time. They lack the collaboration features of a Microsoft 365 group, but sometimes you don't need these extra bits.
+Distribution groups are the way to go if you just want to be able to email a number of people at the same time. They lack the collaboration features of a Microsoft 365 group, but sometimes you don't need these extra bits. 
 
-It's also worth noting that Distribution groups can be [upgraded to Microsoft 365 Groups](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/upgrade-distribution-lists?view=o365-worldwide), so you can change your mind later.
+It's also worth noting that Distribution groups can be [upgraded to Microsoft 365 Groups](https://learn.microsoft.com/en-us/powershell/module/exchange/upgrade-distributiongroup), so you can change your mind later.  Choose these groups if the users need to always receive these emails (important alerts). 
 
 ### Security groups
 

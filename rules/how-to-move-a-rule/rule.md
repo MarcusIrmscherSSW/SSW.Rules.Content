@@ -1,6 +1,6 @@
 ---
 type: rule
-archivedreason: 
+archivedreason: We use GitHub now. Check out the wiki - https://github.com/SSWConsulting/SSW.Rules.Content/wiki
 title: SharePoint - Do you know how to move a rule? (internal only)
 guid: f5da7ccf-0296-464b-b6a9-2ef887b35111
 uri: how-to-move-a-rule
@@ -25,8 +25,6 @@ If you want a rule page to be shown on a different rule summary page, simply cha
 --
 
 Sometimes you might need to move a rule from a category to another. You can do this by following these steps:
-
-(Steps 1 and 2 can be skipped by clicking on [this link](/_layouts/15/sitemanager.aspx?Source=%7bWebUrl%7d_layouts/15/settings.aspx) )
 
 <!--endintro-->
 

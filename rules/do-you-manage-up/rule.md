@@ -26,6 +26,8 @@ Managing up is providing your manager with an active request or an option to app
 
 <!--endintro-->
 
+![Figure: Hard decision - This guy needs to state why he recommends this option](complexity-and-false-hope.jpg)  
+
 ::: greybox
 What do you want to charge for David's rate?
 :::
@@ -42,6 +44,11 @@ I would advise the standard $165 + GST until he has more experience.
 :::
 ::: good
 Figure: Good example - Approval request in form of a task
+:::
+
+
+::: info
+**Note:** If it involves technical solution, please provide the steps you are going to follow. 
 :::
 
 ### Multiple options
@@ -67,4 +74,7 @@ We want to integrate our database with our website so that customers can purchas
 Figure: Good example - Multiple options with reasons and a recommendation
 :::
 
-![Figure: Hard decision - This guy needs to state why he recommends this option](complexity-and-false-hope.jpg)  
+::: info
+**Note:** When presenting choices, it is important to avoid using the term "version" as it pertains to specific iterations or editions. Always use "options" which refer to selectable variations or customizable features.
+:::
+

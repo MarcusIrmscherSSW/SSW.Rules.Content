@@ -20,6 +20,7 @@ index:
 - 404-error-avoid-changing-the-url
 - always-put-javascript-in-a-separate-file
 - always-use-query-strings
+- optimise-favicon
 - use-html-maxlength-to-limit-number-of-characters
 - avoid-deploying-source-code-on-the-production-server
 - avoid-using-uncs-in-hrefs
@@ -38,8 +39,10 @@ index:
 - use-jquery-instead-of-javascript
 - use-link-auditor
 - using-markdown-to-store-your-content
+- do-you-know-the-best-practices-for-frontmatter-in-markdown
 - set-language-on-code-blocks
 - use-markup-validation-service-to-check-your-html-code
+- html-unicode-hex-codes
 - use-open-graph
 - use-server-side-comments
 - best-static-site-tech-stack
@@ -50,5 +53,7 @@ index:
 - monitor-packages-for-vulnerability
 - do-you-perform-migration-procedures-with-an-approved-plan
 - generate-pdfs
+- manage-bundle-size
+- use-right-site-search-for-your-website
 
 ---

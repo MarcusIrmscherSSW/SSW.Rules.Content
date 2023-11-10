@@ -28,12 +28,12 @@ Please don't say just 'Hello' in chat. It's as if you called someone on the phon
 
 When you do that, you're simply making the other person wait for you to phrase your question, which generates low productivity.
 
+<!--endintro-->
+
 Now that you've avoided just saying hello, if you're calling them, [just be sure to give them a warning](/warn-then-call)
 
 `youtube: https://www.youtube.com/embed/oOEpdViHeVI`
-*No Hello - Say Goodbye to Time Wasting with this Simple Productivity Trick | SSW Rules (6 min)**
-
-<!--endintro-->
+**No Hello - Say Goodbye to Time Wasting with this Simple Productivity Trick | SSW Rules (6 min)**
 
 ::: info
 **Shorter Video (1 min):** [Adam Cogan talks about a common mistake on IM - just saying "Hey" or "Hello" without explaining the context](https://www.youtube.com/watch?v=omuzBQaPQjw).
@@ -73,20 +73,4 @@ Instead of doing this, just ask the question!
 Good example - You have given immediate context
 :::
 
-Asking your question before getting any reply allows **asynchronous communication**. If the other party is away, and you leave before they come back, they can still answer your question, instead of just staring at a "Hello" and wondering what they missed.
-
-## Tip - Make your questions easy to respond to
-
-For simple questions, try to give 2 or more options and ask them to thumbs up 👍 their preferred option. That makes it as simple as possible to respond so you can even catch people who are extremely busy!
-
-![Figure: ✅ Good example - The question and options are easy for a busy person to action ](no-hello.jpg)
-
 More info on [nohello.net](https://nohello.net/).
-
-### Use Outlook | Share to Teams
-
-![Figure: Share to Teams button](share-to-teams-outlook-button.png)
-
-:::good
-![Figure: Good example - Includes a task, and gives context by sharing the email to a teams chat using the Outlook | Share to Teams](/share-to-teams.png)
-:::

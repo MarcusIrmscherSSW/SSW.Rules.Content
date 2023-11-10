@@ -11,9 +11,11 @@ authors:
     url: https://ssw.com.au/people/william-liebenberg
   - title: Jernej Kavka (JK)
     url: https://ssw.com.au/people/jk
+    img: https://github.com/SSWConsulting/SSW.People.Profiles/raw/main/Jernej-Kavka/Images/Jernej-Kavka-Profile.jpg
 related:
   - refactor-your-code-and-keep-methods-short
   - well-architected-framework
+  - just-enough-refactoring
 redirects:
   - do-you-know-the-importance-of-paying-back-technical-debt
 created: 2020-12-16T23:19:05.000Z

@@ -21,6 +21,9 @@ index:
 - loop-someone-in
 - speak-up
 - the-happiness-equation
+- take-effective-notes
+- escalate-key-updates
+- corridor-conversations
 
 ---
 

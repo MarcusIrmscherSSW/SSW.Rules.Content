@@ -1,6 +1,6 @@
 ---
 type: rule
-archivedreason: 
+archivedreason: Re-entering the email after an incorrect login attempt and when proceeding to the "Forgot Password" screen is a good security practice in the password reset process. It helps ensure the customer's information remains secure.
 title: Forgot Password - Do you read their mind?
 guid: 0104bd48-220b-48df-905c-2927131c80ad
 uri: forgot-password-do-you-read-their-mind
@@ -24,22 +24,8 @@ Unfortunately here is the normal routine to get an email       with your passwor
 
 <!--endintro-->
 
-
-
-
-```
-Question : Why do 99% of the web sites out there, ask you to - Enter you email again (they have already got it) - Then click 'Get Password' (you have already clicked the link 'Forgot Password')
-```
-
-
-
-
-
-```
-Answer : Because they are not trying to read your mind.
-```
-
-
+**Question**: Why do 99% of the web sites out there, ask you to - Enter you email again (they have already got it) - Then click 'Get Password' (you have already clicked the link 'Forgot Password')  
+**Answer**: Because they are not trying to read your mind.
 
 **The goal should be:** 
 Be more efficient and user-friendly and save them a step. Please DO NOT bother users to do any more redundant work.

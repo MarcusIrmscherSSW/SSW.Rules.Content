@@ -7,6 +7,8 @@ index:
 - security-best-practices-for-end-users-and-sysadmins
 - password-manager
 - secure-password-share
+- password-sharing-practices
+- store-sensitive-information-securely
 - update-operating-system
 - windows-security
 - virus-threat-protection

@@ -11,6 +11,7 @@ related:
   - participate-in-daily-scrum-meetings
   - use-the-status-message-in-teams
   - keep-track-of-a-parking-lot-for-topics
+  - do-you-make-your-team-meetings-easy-to-find
 redirects:
   - methodology-do-you-do-daily-scrums-aka-stand-up-meetings
   - methodology-do-you-do-daily-scrums-(aka-stand-up-meetings)
@@ -49,7 +50,7 @@ The team's successes and failures are shared, and anyone who knows the answer to
 
 ### Tip #1: Be prepared for the meeting
 
-Before you join the Daily Scrum, [check the Teams group](/how-to-see-what-is-going-on-in-your-project) to see what your colleagues have been discussing and working on, and check the portal to confirm the meeting time. If you’re joining a new project or re-joining a previous one after some time away, these steps are important to keep yourself up-to-date and abreast of progress.
+Before you join the Daily Scrum, [check the group](/how-to-see-what-is-going-on-in-your-project) to see what your colleagues have been discussing and working on, and check the portal to confirm the meeting time. If you’re joining a new project or re-joining a previous one after some time away, these steps are important to keep yourself up-to-date and abreast of progress.
 
 Then you’ll be able to say to your Scrum Master, “I’ve had a look at the Teams group. I am ready to join the daily Scrum.”
 
@@ -64,12 +65,12 @@ At the end of the Scrum, the Scrum Master should [review the current burn down](
 ::: email-template
 |          |     |
 | -------- | --- |
-| To:      | \[Team] |
+| To:      | {{ TEAM }} |
 | Recurrence:      | Everyday |
-| Subject: | Daily Scrum – \[Project Name] |\
+| Subject: | Daily Scrum –  {{ PROJECT NAME }} |
 ::: email-content  
 
-### Hi \[Team Name],
+### Hi {{ TEAM NAME }},
 
 As per our conversation, the Daily Scrum will be held each day.
 
@@ -135,9 +136,9 @@ Often the Product Owner won’t be at the Scrum. However, call the Product Owner
 
 ![Figure: Call the Product Owner if you have an Impediment (aka Roadblock)](ProductOwnerTelephone.jpg)
 
-### Tip #12: Use a Daily Scrum calendar for the PO
+### Tip #12: Store Daily Scrums in the Teams team so the PO can easily access it
 
-Sometimes the Product Owner will have multiple Daily Scrums they are invited to. To avoid overwhelming their calendar, create a new shared calendar for all Daily Scrum appointments. Teams should invite the shared calendar to their Daily Scrum meetings. The PO - and other stakeholders - can view the shared calendar, and easily find and join Daily Scrums when they need to.
+Sometimes, the Product Owner will want to see the Daily Scrum for many teams. Adding them to every meeting would create lots of noise in their calendar. Instead, make the [Teams meetings easy to find](do-you-make-your-team-meetings-easy-to-find) so they can locate the Daily Scrum for any project via the Teams team.
 
 :::bad
 
@@ -147,7 +148,7 @@ Sometimes the Product Owner will have multiple Daily Scrums they are invited to.
 
 :::good
 
-![Good Example: Inviting a shared calendar for Daily Scrum appointments](daily-scrum-good.png)
+![Good Example: Make Daily Scrums easy to find via the Teams Channel Calendar](daily-scrum-good.png)
 
 :::
 
@@ -159,7 +160,44 @@ If you don't have a team, and you're doing ad hoc work for a PO directly, it's b
 
 Once you have completed your stand up, add “S” to your timesheet as per [Rules to Better Timesheets](/rules-to-better-timesheets).
 
-### Tip #15: Use Teams or Skype
+### Tip #15: Send an email
+
+To avoid misunderstandings or even arguments, send your Daily Scrum as an email so everyone you are working with knows what you are working on. This is also helpful for team members who were not able to to join the Daily Scrum 😊.
+
+::: email-template
+|          |     |
+| -------- | --- |
+| To:      | Bob Northwind |
+| Cc:      | {{ ANYONE YOU'RE WORKING WITH }} |
+| Subject: | {{ YOUR NAME / TEAM NAME }} - Daily Scrum |
+::: email-content  
+
+### Hi Bob,
+
+Yesterday I worked on:
+
+* ✅ Done - XXX
+* ⏳ In Progress - XXX
+* ⬜ PBI - XXX
+* ❌ Blocked - XXX
+
+Today I'm working on:
+
+* ⏳ In Progress - XXX
+* ⬜ PBI - XXX
+* ⬜ Email - XXX
+* ❌ Blocked - XXX
+
+:::
+:::
+::: good
+Figure: Good example - Always include what you previously worked on and what you plan on doing today
+:::
+
+### Tip #16: Use Teams or Skype
+
+After you have sent your email, you can also make it front and center by sending them a ping.
+*“Check your email for my Daily Scrum”* or paste in the below (a lightweight version with only what to do).
 
 Use Teams or Skype to bridge gaps in geography.
 
@@ -206,7 +244,7 @@ Today I am working on:
 Figure: Good example - Clear details
 :::
 
-### Tip #16: Auto-generate your Daily Scrum with AutoScrum
+### Tip #17: Auto-generate your Daily Scrum with AutoScrum
 
 AutoScrum will scan your Azure DevOps repositories and find all the PBIs that you worked on yesterday and that are In Progress today.
 

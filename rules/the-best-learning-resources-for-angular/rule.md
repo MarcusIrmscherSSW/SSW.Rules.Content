@@ -33,14 +33,13 @@ Here are the best collection of resources for Angular.
 
 ### Training Courses $
 
-* **[FireBootCamp 1-day Course](https://firebootcamp.com/angular-superpower-tour)**
-* **[FireBootCamp 2-day Workshop](https://firebootcamp.com/2-day-angular-workshop)**
-* **[FireBootCamp 6-week Online Course](https://firebootcamp.com/angular-online-course)**
+* **[Angular Dev Superpowers Tour](https://www.ssw.com.au/events/angular-superpowers-tour)**
 * **[PluralSight - Getting Started with Angular](https://www.pluralsight.com/courses/angular-2-getting-started-update)**
 
 ### Books
 
 * **[Little Book of Angular](Little-Book-Angular.pdf)**
+<!-- * **[Little Book of Angular](https://github.com/SSWConsulting/SSW.Rules.Content/blob/5767b4cfde1db0030404931054318c3d01fa7f85/rules/the-best-learning-resources-for-angular/Little-Book-Angular.pdf)** -->
 * **[The ng-book](https://www.ng-book.com/2)**
 
 ### Free Events

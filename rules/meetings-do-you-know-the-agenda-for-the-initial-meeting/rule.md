@@ -8,6 +8,7 @@ authors:
   - title: Ulysses Maclaren
     url: https://ssw.com.au/people/ulysses-maclaren
   - title: Sam Smith
+    url: https://ssw.com.au/people/sam-smith
 related: []
 redirects: []
 created: 2012-08-30T12:58:29.000Z
@@ -16,7 +17,7 @@ guid: d4f0ce1d-97b8-4b6f-a7ed-bc599a0d5c31
 ---
 The first meeting is on you. While you have 1 - 2 hours to provide the prospective client with enough information to decide whether to pursue a [Spec Review](/rules-to-better-specification-reviews), the focus of the initial meeting is the client, their problem, and how you might build a solution.
 
-The best way to action this is to ask questions, **listen and take notes**: Clients appreciate someone genuinely considering their needs. A brainstorming session is a fantastic way to give and receive feedback immediately. Even if the client decides not to use you, you should **provide them with useful information** and a positive impression.
+The best way to action this is to ask questions, **listen and take notes**: Clients appreciate someone genuinely considering their needs. A Brainstorming session is a fantastic way to give and receive feedback immediately. Even if the client decides not to use you, you should **provide them with useful information** and a positive impression.
 
 <!--endintro-->
 

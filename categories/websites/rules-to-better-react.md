@@ -7,10 +7,11 @@ index:
 - why-react-is-great
 - the-best-learning-resources-for-react
 - how-to-easily-start-a-react-project
-- the-best-build-tool-for-react
+- best-react-build-tool
 - the-best-package-manager-for-react
 - best-practice-for-managing-state
 - do-you-know-the-best-sample-applications
+- fetch-data-react
 - how-to-get-your-machine-setup
 - tools-do-you-know-the-best-packages-and-libraries-to-use-with-react
 - write-small-components
@@ -18,6 +19,7 @@ index:
 - use-typescript
 - the-best-ide-for-react
 - manage-javascript-projects-with-nx
+- do-you-use-these-useful-react-hooks
 
 ---
 

@@ -3,9 +3,9 @@ type: rule
 title: Scrum Meetings - Do you know what to prepare for each meeting?
 uri: meeting-do-you-know-what-to-prepare-for-each-meeting
 authors: []
-related: 
-- methodology-daily-scrums
-- reports-do-you-know-which-reports-are-the-most-important-ones-to-track-your-progress
+related:
+  - methodology-daily-scrums
+  - reports-do-you-know-which-reports-are-the-most-important-ones-to-track-your-progress
 redirects: []
 created: 2010-04-30T05:31:56.000Z
 archivedreason: null
@@ -34,15 +34,16 @@ This is time boxed to 15 mins. All members of the team should be well prepared 
 
 All members of the team must be well prepared by:
 
+* Deploying the latest iteration of the product
 * Being available **30 minutes** before the meeting
 * Setting up and testing the projector with a computer before the meeting starts
 * Making sure remote members are connected via Skype and/or TeamViewer before the meeting starts
 * Nominating in advance another member of the team to take notes from the presentation
-* Deciding, in advance, the order in which PBIs should be presented; priority, sprint backlog order, logical order and minimizing presenter and presentation medium switching should be taken into account.
+* Deciding, in advance, the order in which PBIs should be presented; priority, Sprint backlog order, logical order and minimizing presenter and presentation medium switching should be taken into account.
 * Controlling the time spent on the PBI presentation
 
   * Practice the demo beforehand if needed to ensure a succinct delivery. This can be in the form of a pre-prepared video if desired
-  * Inform the product owner what the main goal of the PBI is and tell if the team believe it was done or not
+  * Inform the Product Owner what the main goal of the PBI is and tell if the team believe it was done or not
   * If the Product Owner previously saw what was done, ideally the member should just mention that and ask if the PBI is accepted
   * If the member needs to show something, show a couple of examples and ask if the Product Owner wants to see something else
 
@@ -50,8 +51,8 @@ All members of the team must be well prepared by:
 
 All members of the team must be well prepared by:
 
-* Having all your tasks from the last sprint closed
-* Having your sprint feedback ready in advance, so members don’t need to think about it during the meeting, saving time
+* Having all your tasks from the last Sprint closed
+* Having your Sprint feedback ready in advance, so members don’t need to think about it during the meeting, saving time
 * Being clear and pointing out issues that need further discussions
 
 ### Sprint Planning Meetings
